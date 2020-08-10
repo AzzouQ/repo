@@ -4,7 +4,7 @@ Architecture: iphoneos-arm
 Maintainer: Azzou
 Installed-Size: 900
 Depends: mobilesubstrate, firmware (>= 13), ws.hbang.common (>= 1.14)
-Filename: ./debs/com.azzou.rounderls_1.0.0-11+debug_iphoneos-arm.deb
+Filename: ./debs/com.azzou.rounderls_1.0.0.deb
 Size: 603966
 MD5sum: c176a225ceceeeefd3985ac5e3840300
 SHA1: 443c5ac2ddda6b9574523e8409a79e372f388532
