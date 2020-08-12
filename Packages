@@ -14,3 +14,19 @@ Description: A little tweak to make your LockScreen rounder !
 Author: Azzou
 Name: RounderLS
 
+Package: com.azzou.rounderls
+Version: 1.2-1
+Architecture: iphoneos-arm
+Maintainer: Azzou
+Installed-Size: 2244
+Depends: mobilesubstrate, firmware (>= 13), ws.hbang.common (>= 1.14)
+Filename: ./debs/com.azzou.rounderls_1.2-1_iphoneos-arm.deb
+Size: 1980572
+MD5sum: 136c8e0e65d8ec01c43e0370e797d11d
+SHA1: a7f2cf9460a22181be2f7b002e03be107ea10891
+SHA256: bf098761e9cc7a48f3b4955bcc2c0737a7c12f4850735da8511c9a3faa0e9e1f
+Section: Tweaks
+Description: A little tweak to make your LockScreen rounder !
+Author: Azzou
+Name: RounderLS
+
