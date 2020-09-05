@@ -1,16 +1,34 @@
-Package: com.azzou.rounderls
-Version: 1.2-8
+Package: com.azzou.coeus
+Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Azzou
-Installed-Size: 2248
+Installed-Size: 3920
+Depends: mobilesubstrate, firmware (>= 13), ws.hbang.common (>= 1.14), libactivator (>= 1.9.13), com.a3tweaks.flipswitch (>= 1.0.16), com.opa334.ccsupport
+Filename: ./debs/com.azzou.coeus_1.0_iphoneos-arm.deb
+Size: 3250046
+MD5sum: a5664fce4822359cc53ddb7f5a9f6e03
+SHA1: 102cc971db38e15ca24f15476003e6562b38d488
+SHA256: 6f99bcbe0f277ca5e075fb1f2f71da8d37ac16d42fee4afb3b22712aa3cff627
+Section: Control Center (Modules)
+Description: An awesome Control Center module!
+Author: Azzou
+Icon: https://raw.githubusercontent.com/AzzouDuGhetto/Coeus/master/Prefs/Resources/Coeus.png
+Name: Coeus
+
+Package: com.azzou.rounderls
+Version: 1.3
+Architecture: iphoneos-arm
+Maintainer: Azzou
+Installed-Size: 3036
 Depends: mobilesubstrate, firmware (>= 13), ws.hbang.common (>= 1.14)
-Filename: ./debs/com.azzou.rounderls_1.2-8_iphoneos-arm.deb
-Size: 1981824
-MD5sum: 44e67e984f1271b15fed4f51d3839920
-SHA1: bfc9a9c7ac96bd7d4753efe3680bee5fe9e9c84e
-SHA256: 0d43844a3eec7e70a8080fc9466703fd209d9563eeff180b735fdf6d0aec71b5
+Filename: ./debs/com.azzou.rounderls_1.3_iphoneos-arm.deb
+Size: 2761308
+MD5sum: 332486d6fec886fb85995817d4f6427f
+SHA1: 75d32b689ce97506f17d47cc4024251e6627f1f5
+SHA256: b35ae7e90a22d19cdbe42bc100767d352e4f124f2a2b28489615404c9df2a0a8
 Section: Tweaks
 Description: A little tweak to make your LockScreen rounder !
 Author: Azzou
+Icon: https://raw.githubusercontent.com/AzzouDuGhetto/RounderLS/master/Prefs/Resources/RounderLS.png
 Name: RounderLS
 
