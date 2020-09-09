@@ -1,48 +1,14 @@
 Package: com.azzou.coeus
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Azzou
-Installed-Size: 3920
-Depends: mobilesubstrate, firmware (>= 11), ws.hbang.common (>= 1.14), libactivator (>= 1.9.13), com.a3tweaks.flipswitch (>= 1.0.16), com.opa334.ccsupport
-Filename: ./debs/com.azzou.coeus_1.0_iphoneos-arm.deb
-Size: 3250266
-MD5sum: 540cb40354b18500a602050158857193
-SHA1: f46bfb5d366b205ad539df828200e7c8b81c35b3
-SHA256: 26a589a447902402a0418384046a0cd87363aeef353ed9e723ad65fdbe88f430
-Section: Control Center (Modules)
-Description: An awesome Control Center module!
-Author: Azzou
-Icon: https://raw.githubusercontent.com/AzzouDuGhetto/Coeus/master/Prefs/Resources/Coeus.png
-Name: Coeus
-
-Package: com.azzou.coeus
-Version: 1.0-1
-Architecture: iphoneos-arm
-Maintainer: Azzou
-Installed-Size: 3888
-Depends: mobilesubstrate, firmware (>= 11), ws.hbang.common (>= 1.14), libactivator, com.a3tweaks.flipswitch, com.opa334.ccsupport
-Filename: ./debs/com.azzou.coeus_1.0-1_iphoneos-arm.deb
-Size: 3280004
-MD5sum: 2f102ea00f3107aa1c99397d31e606a3
-SHA1: 32d080d1d00109a35cf55b9614e5b52de8144dc6
-SHA256: 38804f40fff200392790097cc50b496bcac32be85e49bc02f48c3728e08d56a0
-Section: Control Center (Modules)
-Description: An awesome Control Center module!
-Author: Azzou
-Icon: https://raw.githubusercontent.com/AzzouDuGhetto/Coeus/master/Prefs/Resources/Coeus.png
-Name: Coeus
-
-Package: com.azzou.coeus
-Version: 1.0-4
-Architecture: iphoneos-arm
-Maintainer: Azzou
-Installed-Size: 3896
-Depends: mobilesubstrate, firmware (>= 11), ws.hbang.common (>= 1.14), libactivator, com.a3tweaks.flipswitch, com.opa334.ccsupport
-Filename: ./debs/com.azzou.coeus_1.0-4_iphoneos-arm.deb
-Size: 3284212
-MD5sum: faf8217643b2d2cde989da88004bc1ef
-SHA1: fd1a893a7150bd50b5429bf016ae2ca5f1eef7f7
-SHA256: c44a3502fc7a40e27a1a9ea3fa65e7643882cdca703d82d89423e0db23912286
+Installed-Size: 3872
+Depends: mobilesubstrate, firmware (>= 11), ws.hbang.common (<< 1.15.3), libactivator, com.a3tweaks.flipswitch, com.opa334.ccsupport, ws.hbang.alderis
+Filename: ./debs/com.azzou.coeus_1.1_iphoneos-arm.deb
+Size: 3241366
+MD5sum: 9e84a1e31fcd43ea80d8618e21d17eb6
+SHA1: 9c2b5e67811945ced0c8919342acf94d96d6fe28
+SHA256: 9169dac61eaf0df509fecb4bf21b419fa67ab9237765e7e93c729fe88653829b
 Section: Control Center (Modules)
 Description: An awesome Control Center module!
 Author: Azzou
@@ -50,16 +16,16 @@ Icon: https://raw.githubusercontent.com/AzzouDuGhetto/Coeus/master/Prefs/Resourc
 Name: Coeus
 
 Package: com.azzou.rounderls
-Version: 1.3
+Version: 1.3-1
 Architecture: iphoneos-arm
 Maintainer: Azzou
-Installed-Size: 3036
+Installed-Size: 3044
 Depends: mobilesubstrate, firmware (>= 13), ws.hbang.common (>= 1.14)
-Filename: ./debs/com.azzou.rounderls_1.3_iphoneos-arm.deb
-Size: 2761308
-MD5sum: 332486d6fec886fb85995817d4f6427f
-SHA1: 75d32b689ce97506f17d47cc4024251e6627f1f5
-SHA256: b35ae7e90a22d19cdbe42bc100767d352e4f124f2a2b28489615404c9df2a0a8
+Filename: ./debs/com.azzou.rounderls_1.3-1_iphoneos-arm.deb
+Size: 2769750
+MD5sum: b77f022402c670a87f0c30dae7468ad3
+SHA1: 43fa634f7bc4f8062eac649812a634b49b29a4c0
+SHA256: fe6a3b09698ab6bf85be54258e735cfac7e3a5a67b18e88d878ac6abc262948d
 Section: Tweaks
 Description: A little tweak to make your LockScreen rounder !
 Author: Azzou
