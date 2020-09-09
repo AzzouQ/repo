@@ -15,6 +15,23 @@ Author: Azzou
 Icon: https://raw.githubusercontent.com/AzzouDuGhetto/Coeus/master/Prefs/Resources/Coeus.png
 Name: Coeus
 
+Package: com.azzou.coeus
+Version: 1.1-1
+Architecture: iphoneos-arm
+Maintainer: Azzou
+Installed-Size: 3872
+Depends: mobilesubstrate, firmware (>= 11), ws.hbang.common (= 1.15.1), libactivator, com.a3tweaks.flipswitch, com.opa334.ccsupport, ws.hbang.alderis
+Filename: ./debs/com.azzou.coeus_1.1-1_iphoneos-arm.deb
+Size: 3271450
+MD5sum: 2fabb097468144c126cbf360c914c6e1
+SHA1: 6b0b17f61a3ddb374b4db548e0891ff432573aeb
+SHA256: 457138ef7a2d693a4dde26581655d86665a145c65eb85f6f5d213c8fb3755a30
+Section: Control Center (Modules)
+Description: An awesome Control Center module!
+Author: Azzou
+Icon: https://raw.githubusercontent.com/AzzouDuGhetto/Coeus/master/Prefs/Resources/Coeus.png
+Name: Coeus
+
 Package: com.azzou.rounderls
 Version: 1.3-1
 Architecture: iphoneos-arm
