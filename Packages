@@ -1,4 +1,21 @@
 Package: com.azzou.coeus
+Version: 1.1-10
+Architecture: iphoneos-arm
+Maintainer: Azzou
+Installed-Size: 3876
+Depends: mobilesubstrate, firmware (>= 11), ws.hbang.common (= 1.15.1), libactivator, com.a3tweaks.flipswitch, com.opa334.ccsupport, com.creaturesurvive.libcscolorpicker
+Filename: ./debs/com.azzou.coeus_1.1-10_iphoneos-arm.deb
+Size: 3272522
+MD5sum: 396f6553219c5d32e80698dd4512a03e
+SHA1: 3a4fbcf514660c4742bdf3a2cab32f8554d29dae
+SHA256: 9883238ed41a5a3075d22cf21b81957697a8d53e1bc48cf356d919d21690688f
+Section: Control Center (Modules)
+Description: An awesome Control Center module!
+Author: Azzou
+Icon: https://raw.githubusercontent.com/AzzouDuGhetto/Coeus/master/Prefs/Resources/Coeus.png
+Name: Coeus
+
+Package: com.azzou.coeus
 Version: 1.1-8
 Architecture: iphoneos-arm
 Maintainer: Azzou
@@ -14,6 +31,23 @@ Description: An awesome Control Center module!
 Author: Azzou
 Icon: https://raw.githubusercontent.com/AzzouDuGhetto/Coeus/master/Prefs/Resources/Coeus.png
 Name: Coeus
+
+Package: com.azzou.coeus2
+Version: 1.1-10
+Architecture: iphoneos-arm
+Maintainer: Azzou
+Installed-Size: 3876
+Depends: mobilesubstrate, firmware (>= 11), ws.hbang.common (= 1.15.1), libactivator, com.a3tweaks.flipswitch, com.opa334.ccsupport, com.creaturesurvive.libcscolorpicker
+Filename: ./debs/com.azzou.coeus2_1.1-10_iphoneos-arm.deb
+Size: 3272232
+MD5sum: fdebd2eb68e0926237fc9122a8136ab2
+SHA1: 204a26151340f00f9f068c4bf04af1d76fa17112
+SHA256: cb0b59505cfb49b52bd8474922f5c68f4e1f8925619baebd43e8efe59c283d40
+Section: Control Center (Modules)
+Description: Just a duplicate Coeus to have a second module !
+Author: Azzou
+Icon: https://raw.githubusercontent.com/AzzouDuGhetto/Coeus/master/Prefs/Resources/Coeus.png
+Name: Coeus 2
 
 Package: com.azzou.coeus2
 Version: 1.1-8
