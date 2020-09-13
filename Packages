@@ -1,31 +1,14 @@
 Package: com.azzou.coeus
-Version: 1.1-10
+Version: 1.1-11
 Architecture: iphoneos-arm
 Maintainer: Azzou
-Installed-Size: 3876
+Installed-Size: 3888
 Depends: mobilesubstrate, firmware (>= 11), ws.hbang.common (= 1.15.1), libactivator, com.a3tweaks.flipswitch, com.opa334.ccsupport, com.creaturesurvive.libcscolorpicker
-Filename: ./debs/com.azzou.coeus_1.1-10_iphoneos-arm.deb
-Size: 3272522
-MD5sum: 396f6553219c5d32e80698dd4512a03e
-SHA1: 3a4fbcf514660c4742bdf3a2cab32f8554d29dae
-SHA256: 9883238ed41a5a3075d22cf21b81957697a8d53e1bc48cf356d919d21690688f
-Section: Control Center (Modules)
-Description: An awesome Control Center module!
-Author: Azzou
-Icon: https://raw.githubusercontent.com/AzzouDuGhetto/Coeus/master/Prefs/Resources/Coeus.png
-Name: Coeus
-
-Package: com.azzou.coeus
-Version: 1.1-8
-Architecture: iphoneos-arm
-Maintainer: Azzou
-Installed-Size: 3876
-Depends: mobilesubstrate, firmware (>= 11), ws.hbang.common (= 1.15.1), libactivator, com.a3tweaks.flipswitch, com.opa334.ccsupport, com.creaturesurvive.libcscolorpicker
-Filename: ./debs/com.azzou.coeus_1.1-8_iphoneos-arm.deb
-Size: 3272212
-MD5sum: 3280d5f9705199abe6b8bda3fd0ec6a5
-SHA1: 67e18b4c2277974bf48bb2854bddb5d53e2686cc
-SHA256: 32be51bb32cd44c0cb13728c8c64b7dc4ba9ad59de5af0c354b079d0ab2e60c8
+Filename: ./debs/com.azzou.coeus_1.1-11_iphoneos-arm.deb
+Size: 3253414
+MD5sum: 060f2f19098a9db958a6a4d10229013a
+SHA1: 21a437e3c54d8701ee9fb78d19f384169752954b
+SHA256: cc37154c1170ac22dd14e475941f569c023704ca9505f80ab0f3b936c13ab7bc
 Section: Control Center (Modules)
 Description: An awesome Control Center module!
 Author: Azzou
@@ -33,36 +16,36 @@ Icon: https://raw.githubusercontent.com/AzzouDuGhetto/Coeus/master/Prefs/Resourc
 Name: Coeus
 
 Package: com.azzou.coeus2
-Version: 1.1-10
+Version: 1.1-11
 Architecture: iphoneos-arm
 Maintainer: Azzou
-Installed-Size: 3876
+Installed-Size: 3888
 Depends: mobilesubstrate, firmware (>= 11), ws.hbang.common (= 1.15.1), libactivator, com.a3tweaks.flipswitch, com.opa334.ccsupport, com.creaturesurvive.libcscolorpicker
-Filename: ./debs/com.azzou.coeus2_1.1-10_iphoneos-arm.deb
-Size: 3272232
-MD5sum: fdebd2eb68e0926237fc9122a8136ab2
-SHA1: 204a26151340f00f9f068c4bf04af1d76fa17112
-SHA256: cb0b59505cfb49b52bd8474922f5c68f4e1f8925619baebd43e8efe59c283d40
+Filename: ./debs/com.azzou.coeus2_1.1-11_iphoneos-arm.deb
+Size: 3253158
+MD5sum: 4ca861552b27bc938db21b4eb5451657
+SHA1: b63619a9224f9cab811c3028e9a02cd1a2c213bd
+SHA256: a9773216e9b2d5bb77e28879717b1a7d4909aa83f716cf554898e8cbd01b4505
 Section: Control Center (Modules)
-Description: Just a duplicate Coeus to have a second module !
+Description: Just a duplicate version of Coeus, to have a second module !
 Author: Azzou
-Icon: https://raw.githubusercontent.com/AzzouDuGhetto/Coeus/master/Prefs/Resources/Coeus.png
+Icon: https://raw.githubusercontent.com/AzzouDuGhetto/Coeus2/master/Prefs/Resources/Coeus2.png
 Name: Coeus 2
 
-Package: com.azzou.coeus2
-Version: 1.1-8
+Package: com.azzou.rounderls
+Version: 1.3-1
 Architecture: iphoneos-arm
 Maintainer: Azzou
-Installed-Size: 3876
-Depends: mobilesubstrate, firmware (>= 11), ws.hbang.common (= 1.15.1), libactivator, com.a3tweaks.flipswitch, com.opa334.ccsupport, com.creaturesurvive.libcscolorpicker
-Filename: ./debs/com.azzou.coeus2_1.1-8_iphoneos-arm.deb
-Size: 3271948
-MD5sum: 6334ada21f75648adec41ed15fea7b3c
-SHA1: 31018f793f2712c18236c5a4e7025f212608d053
-SHA256: 21f8668d213963abfc685de15b00a471b1baede3fd38cc1a47b7dcce73455b31
-Section: Control Center (Modules)
-Description: Just a duplicate Coeus to have a second module !
+Installed-Size: 3044
+Depends: mobilesubstrate, firmware (>= 13), ws.hbang.common (>= 1.14)
+Filename: ./debs/com.azzou.rounderls_1.3-1_iphoneos-arm.deb
+Size: 2769750
+MD5sum: b77f022402c670a87f0c30dae7468ad3
+SHA1: 43fa634f7bc4f8062eac649812a634b49b29a4c0
+SHA256: fe6a3b09698ab6bf85be54258e735cfac7e3a5a67b18e88d878ac6abc262948d
+Section: Tweaks
+Description: A little tweak to make your LockScreen rounder !
 Author: Azzou
-Icon: https://raw.githubusercontent.com/AzzouDuGhetto/Coeus/master/Prefs/Resources/Coeus.png
-Name: Coeus 2
+Icon: https://raw.githubusercontent.com/AzzouDuGhetto/RounderLS/master/Prefs/Resources/RounderLS.png
+Name: RounderLS
 
