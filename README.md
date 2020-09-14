@@ -1,10 +1,6 @@
-# Header 1
-Test
+Add my repo
 
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
+[Sileo][sileo://https://azzoudughetto.github.io/repo/]
+[Cydia][cydia://https://azzoudughetto.github.io/repo/]
+[Zebra][zebra://https://azzoudughetto.github.io/repo/]
+[Installer][installer://https://azzoudughetto.github.io/repo/]
