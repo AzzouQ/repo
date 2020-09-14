@@ -2,19 +2,19 @@ Package: com.azzou.coeus
 Version: 1.1-12
 Architecture: iphoneos-arm
 Maintainer: Azzou
-Installed-Size: 3888
+Installed-Size: 3012
 Depends: mobilesubstrate, firmware (>= 11), ws.hbang.common, libactivator, com.a3tweaks.flipswitch, com.opa334.ccsupport, com.creaturesurvive.libcscolorpicker
 Filename: ./debs/com.azzou.coeus_1.1-12_iphoneos-arm.deb
-Size: 3253500
-MD5sum: b0f64f678e2764d9d0887bfb7c62b4a0
-SHA1: 58d48d2634731010fbc78a7047ba37013e878a50
-SHA256: 8de3b514cc587b384b395a049a7bdc241467f0539d59ef6c9ba1af855e4e21fe
+Size: 2346946
+MD5sum: 03af267a9201fba1ba70d8fde0e4b66b
+SHA1: a5772b5759adbc9ab0a0f07bc4bcd51f75cdbbe7
+SHA256: 1fa3bf598bfa52858095a69f42bcbea588681c3568e5f57aa805c9d8e416ce41
 Section: Control Center (Modules)
 Description: An awesome Control Center module!
 Author: Azzou
-Icon: https://github.com/AzzouDuGhetto/repo/blob/master/depictions/coeus/assets/icon.png
+Icon: https://raw.githubusercontent.com/AzzouDuGhetto/repo/master/depictions/coeus/assets/icon.png
 Name: Coeus
-Sileodepiction: https://github.com/AzzouDuGhetto/repo/blob/master/depictions/coeus/modernDepiction.json
+Sileodepiction: https://raw.githubusercontent.com/AzzouDuGhetto/repo/master/depictions/coeus/modernDepiction.json
 
 Package: com.azzou.coeus2
 Version: 1.1-12
@@ -23,14 +23,14 @@ Maintainer: Azzou
 Installed-Size: 3888
 Depends: mobilesubstrate, firmware (>= 11), ws.hbang.common, libactivator, com.a3tweaks.flipswitch, com.opa334.ccsupport, com.creaturesurvive.libcscolorpicker
 Filename: ./debs/com.azzou.coeus2_1.1-12_iphoneos-arm.deb
-Size: 3253276
-MD5sum: a5f2d46feaa53ca76542b583c8d8344b
-SHA1: 48121570325eadb932d45eeff0bcac0b71d5c5bb
-SHA256: 711fa28877d2fbfae63fa4df33da797af56c196228fdb21aae85a0bc559a5bcf
+Size: 3253108
+MD5sum: a7afcb295205d48449bd9a065a3efe8a
+SHA1: deb5a776b96eb4d0f148b67a46ff806b48241a42
+SHA256: 23b276f886d012a3e63ce39b67ad875d03d5ac14383a6084594c142e03910ea4
 Section: Control Center (Modules)
 Description: Just a duplicate version of Coeus, to have a second module !
 Author: Azzou
-Icon: https://github.com/AzzouDuGhetto/repo/blob/master/depictions/coeus/assets/icon.png
+Icon: https://raw.githubusercontent.com/AzzouDuGhetto/repo/master/depictions/coeus/assets/icon.png
 Name: Coeus 2
 
 Package: com.azzou.rounderls
@@ -40,14 +40,14 @@ Maintainer: Azzou
 Installed-Size: 3044
 Depends: mobilesubstrate, firmware (>= 13), ws.hbang.common (>= 1.14)
 Filename: ./debs/com.azzou.rounderls_1.3-2_iphoneos-arm.deb
-Size: 2764022
-MD5sum: 6bcc2ca34864b4f22c96394cbf6dc49a
-SHA1: 5501a55cb88c8f631cc92de604b40c050ff8496e
-SHA256: 06526a0a08da3838d5e7419a9bb5a71f7b3128038073b3ceacdd3e01e953bc39
+Size: 2763992
+MD5sum: dda6401de14d27a5a82ad6612199789a
+SHA1: 4176e179ccf236e261cd584bad93de4ab2fd75bf
+SHA256: 0cc111a14865577764d8a26f202a2d4923d8a9e074cc18df81b3088d8b6fbbac
 Section: Tweaks
 Description: A little tweak to make your LockScreen rounder !
 Author: Azzou
 Icon: https://github.com/AzzouDuGhetto/repo/blob/master/depictions/rounderls/assets/icon.png
 Name: RounderLS
-Sileodepiction: https://github.com/AzzouDuGhetto/repo/blob/master/depictions/rounderls/modernDepiction.json
+Sileodepiction: https://raw.githubusercontent.com/AzzouDuGhetto/repo/master/depictions/rounderls/modernDepiction.json
 
