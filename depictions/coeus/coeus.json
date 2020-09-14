@@ -1,0 +1,135 @@
+{
+	"class": "DepictionTabView",
+	"headerImage": "https://azzoudughetto.github.io/repo/depictions/coeus/assets/banner.png",
+	"tabs": [{
+		"class": "DepictionStackView",
+		"tabname": "Details",
+		"views": [{
+			"class": "DepictionScreenshotsView",
+			"itemCornerRadius": 39,
+			"itemSize": "{160, 275.5}",
+			"screenshots": [{
+					"accessibilityText": "Screenshot1",
+					"url": "https://azzoudughetto.github.io/repo/depictions/coeus/assets/ss1.png"
+				},
+				{
+					"accessibilityText": "Screenshot2",
+					"url": "https://azzoudughetto.github.io/repo/depictions/coeus/assets/ss2.png"
+				},
+				{
+					"accessibilityText": "Screenshot3",
+					"url": "https://azzoudughetto.github.io/repo/depictions/coeus/assets/ss3.png"
+				},
+				{
+					"accessibilityText": "Screenshot4",
+					"url": "https://azzoudughetto.github.io/repo/depictions/coeus/assets/ss4.png"
+				},
+				{
+					"accessibilityText": "Screenshot5",
+					"url": "https://azzoudughetto.github.io/repo/depictions/coeus/assets/ss5.png"
+				}]
+		},
+		{
+			"class": "DepictionSpacerView",
+			"spacing": 8
+		},
+		{
+			"class": "DepictionMarkdownView",
+			"title": "markdown-description",
+			"markdown": "Add a new highly customizable module to your ControlCenter 🥳",
+			"useBoldText": true,
+			"useBottomMargin": false
+		},
+		{
+			"class": "DepictionSeparatorView"
+		},
+		{
+			"class": "DepictionTableTextView",
+			"title": "Price",
+			"text": "Free"
+		},
+		{
+			"class": "DepictionSpacerView",
+			"spacing": 8
+		},
+		{
+			"class": "DepictionTableButtonView",
+			"title": "Twitter",
+			"action": "https://twitter.com/AzzouDuGhetto"
+		},
+		{
+			"class": "DepictionTableButtonView",
+			"title": "Reddit",
+			"action": "https://reddit.com/user/SingeSumo"
+		},
+		{
+			"class": "DepictionTableButtonView",
+			"title": "Github",
+			"action": "https://github.com/AzzouDuGhetto"
+		}]
+	},
+	{
+		"class": "DepictionStackView",
+		"tabname": "Features",
+		"views": [{
+			"class": "DepictionSubheaderView",
+			"title": "Module",
+			"useBoldText": true
+		},
+		{
+			"class": "DepictionMarkdownView",
+			"markdown": "- Size of both collapsed and expanded module\r\n- Layout of both collapsed and expanded module\r\n- Paging\r\n- Show slide indicator\r\n- Shwo labels\r\n- Scroll verticaly\r\n- Dark mode",
+			"useSpacing": false
+		},
+		{
+			"class": "DepictionSpacerView",
+			"spacing": 8
+		},
+		{
+			"class": "DepictionSubheaderView",
+			"title": "Toggles",
+			"useBoldText": true
+		},
+		{
+			"class": "DepictionMarkdownView",
+			"markdown": "- Choose the number of toggles\r\n- Choose a name to display\r\n- Define an activator action\r\n- Choose a glyph between preset or SF Symbols\r\n- Choose a custom color\r\n- Ask for confirmation when pressed",
+			"useSpacing": false
+		},
+		{
+			"class": "DepictionSpacerView",
+			"spacing": 8
+		}]
+	},
+	{
+		"class": "DepictionStackView",
+		"tabname": "Changelog",
+		"views": [{
+			"class": "DepictionSubheaderView",
+			"title": "Version 1.1-12",
+			"useBoldText": true
+		},
+		{
+			"class": "DepictionMarkdownView",
+			"markdown": "- Remove specific Cephei dependency\r\n- Add depictions",
+			"useSpacing": false
+		},
+		{
+			"class": "DepictionSpacerView",
+			"spacing": 8
+		},
+		{
+			"class": "DepictionSubheaderView",
+			"title": "Version 1.1-11",
+			"useBoldText": true
+		},
+		{
+			"class": "DepictionMarkdownView",
+			"markdown": "- Initial Release",
+			"useSpacing": false
+		},
+		{
+			"class": "DepictionSpacerView",
+			"spacing": 8
+		}]
+	}]
+}

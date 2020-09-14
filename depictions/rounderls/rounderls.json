@@ -1,0 +1,96 @@
+{
+	"class": "DepictionTabView",
+	"headerImage": "https://azzoudughetto.github.io/repo/depictions/rounderls/assets/banner.png",
+	"tabs": [{
+		"class": "DepictionStackView",
+		"tabname": "Details",
+		"views": [{
+			"class": "DepictionScreenshotsView",
+			"itemCornerRadius": 39,
+			"itemSize": "{160, 275.5}",
+			"screenshots": [{
+					"accessibilityText": "Screenshot1",
+					"url": "https://azzoudughetto.github.io/repo/depictions/rounderls/assets/ss1.png"
+				},
+				{
+					"accessibilityText": "Screenshot2",
+					"url": "https://azzoudughetto.github.io/repo/depictions/rounderls/assets/ss2.png"
+				}]
+		},
+		{
+			"class": "DepictionSpacerView",
+			"spacing": 8
+		},
+		{
+			"class": "DepictionMarkdownView",
+			"title": "markdown-description",
+			"markdown": "A little tweak to make your Lockscreen rounder 🥳",
+			"useBoldText": true,
+			"useBottomMargin": false
+		},
+		{
+			"class": "DepictionSeparatorView"
+		},
+		{
+			"class": "DepictionTableTextView",
+			"title": "Price",
+			"text": "Free"
+		},
+		{
+			"class": "DepictionSpacerView",
+			"spacing": 8
+		},
+		{
+			"class": "DepictionTableButtonView",
+			"title": "Twitter",
+			"action": "https://twitter.com/AzzouDuGhetto"
+		},
+		{
+			"class": "DepictionTableButtonView",
+			"title": "Reddit",
+			"action": "https://reddit.com/user/SingeSumo"
+		},
+		{
+			"class": "DepictionTableButtonView",
+			"title": "Github",
+			"action": "https://github.com/AzzouDuGhetto"
+		}]
+	},
+	{
+		"class": "DepictionStackView",
+		"tabname": "Features",
+		"views": [{
+			"class": "DepictionSubheaderView",
+			"title": "Custom radius",
+			"useBoldText": true
+		},
+		{
+			"class": "DepictionMarkdownView",
+			"markdown": "- Choose a cutom radius for your Lockscreen",
+			"useSpacing": false
+		},
+		{
+			"class": "DepictionSpacerView",
+			"spacing": 8
+		}]
+	},
+	{
+		"class": "DepictionStackView",
+		"tabname": "Changelog",
+		"views": [
+		{
+			"class": "DepictionSubheaderView",
+			"title": "Version 1.3-1",
+			"useBoldText": true
+		},
+		{
+			"class": "DepictionMarkdownView",
+			"markdown": "- Add depictions",
+			"useSpacing": false
+		},
+		{
+			"class": "DepictionSpacerView",
+			"spacing": 8
+		}]
+	}]
+}
