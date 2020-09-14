@@ -6,7 +6,7 @@
 		"tabname": "Details",
 		"views": [{
 			"class": "DepictionScreenshotsView",
-			"itemCornerRadius": 10,
+			"itemCornerRadius": 6,
 			"itemSize": "{160, 275.5}",
 			"screenshots": [{
 					"accessibilityText": "Screenshot1",
