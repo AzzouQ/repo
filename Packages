@@ -16,6 +16,24 @@ Icon: https://raw.githubusercontent.com/AzzouDuGhetto/repo/master/depictions/coe
 Name: Coeus
 Sileodepiction: https://raw.githubusercontent.com/AzzouDuGhetto/repo/master/depictions/coeus/modernDepiction.json
 
+Package: com.azzou.coeus
+Version: 1.1-13
+Architecture: iphoneos-arm
+Maintainer: Azzou
+Installed-Size: 3016
+Depends: mobilesubstrate, firmware (>= 11), ws.hbang.common, libactivator, com.a3tweaks.flipswitch, com.opa334.ccsupport, com.creaturesurvive.libcscolorpicker
+Filename: ./debs/com.azzou.coeus_1.1-13_iphoneos-arm.deb
+Size: 2347212
+MD5sum: 217bd2113ad441f90ca2c8db8b7b0bff
+SHA1: f21cbf8dbe931362d93301640c1d37ed131ade46
+SHA256: 7da9ebf73df2a6e6006f0fda5f4793e44843c6303de19558aca1b541d6883927
+Section: Control Center (Modules)
+Description: An awesome Control Center module!
+Author: Azzou
+Icon: https://raw.githubusercontent.com/AzzouDuGhetto/repo/master/depictions/coeus/assets/icon.png
+Name: Coeus
+Sileodepiction: https://raw.githubusercontent.com/AzzouDuGhetto/repo/master/depictions/coeus/modernDepiction.json
+
 Package: com.azzou.coeus2
 Version: 1.1-12
 Architecture: iphoneos-arm
@@ -27,6 +45,24 @@ Size: 3253350
 MD5sum: 10d7ea28a3494b46924c4462a566627c
 SHA1: f6bc0099d6abeacfbf7c8199ce3de5cf9e36e416
 SHA256: 13b0dc708861fea7bd9b56393d99467665a4b745d030abc54e760f3ccb6ed1bb
+Section: Control Center (Modules)
+Description: Just a duplicate version of Coeus, to have a second module !
+Author: Azzou
+Icon: https://raw.githubusercontent.com/AzzouDuGhetto/repo/master/depictions/coeus/assets/icon.png
+Name: Coeus 2
+Sileodepiction: https://raw.githubusercontent.com/AzzouDuGhetto/repo/master/depictions/coeus/modernDepiction.json
+
+Package: com.azzou.coeus2
+Version: 1.1-13
+Architecture: iphoneos-arm
+Maintainer: Azzou
+Installed-Size: 3892
+Depends: mobilesubstrate, firmware (>= 11), ws.hbang.common, libactivator, com.a3tweaks.flipswitch, com.opa334.ccsupport, com.creaturesurvive.libcscolorpicker
+Filename: ./debs/com.azzou.coeus2_1.1-13_iphoneos-arm.deb
+Size: 3253828
+MD5sum: 9ddc459075397eacfbf34f8f888440a9
+SHA1: 30cddd4b5b63577dc6ab498c44d5b2a65cfa9b67
+SHA256: accf7df09768ae98cfe245f4aec699ab22a0bb84ff11c54331f8089c954f9e62
 Section: Control Center (Modules)
 Description: Just a duplicate version of Coeus, to have a second module !
 Author: Azzou

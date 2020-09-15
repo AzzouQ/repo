@@ -105,6 +105,20 @@
 		"tabname": "Changelog",
 		"views": [{
 			"class": "DepictionSubheaderView",
+			"title": "Version 1.1-13",
+			"useBoldText": true
+		},
+		{
+			"class": "DepictionMarkdownView",
+			"markdown": "- Add default scrollToPage option",
+			"useSpacing": false
+		},
+		{
+			"class": "DepictionSpacerView",
+			"spacing": 8
+		},
+		{
+			"class": "DepictionSubheaderView",
 			"title": "Version 1.1-12",
 			"useBoldText": true
 		},
