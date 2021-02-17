@@ -88,3 +88,21 @@ Icon: https://raw.githubusercontent.com/AzzouDuGhetto/repo/master/depictions/rou
 Name: RounderLS
 Sileodepiction: https://raw.githubusercontent.com/AzzouDuGhetto/repo/master/depictions/rounderls/modernDepiction.json
 
+Package: com.azzou.rounderls
+Version: 1.4
+Architecture: iphoneos-arm
+Maintainer: Azzou
+Installed-Size: 2200
+Depends: mobilesubstrate, firmware (>= 13), ws.hbang.common (>= 1.16)
+Filename: ./debs/com.azzou.rounderls_1.4_iphoneos-arm.deb
+Size: 1895164
+MD5sum: 48235b537a1948693e029a06e11ff9c3
+SHA1: 68cd9c30e49051fa77bcdadad9990d9ca8cbabe4
+SHA256: 2a3e1cf91ee6211b318ea09bbc7c6019bc5bd5a5377b6e478f29be65922310a4
+Section: Tweaks
+Description: A little tweak to make your LockScreen rounder !
+Author: Azzou
+Icon: https://raw.githubusercontent.com/AzzouDuGhetto/repo/master/depictions/rounderls/assets/icon.png
+Name: RounderLS
+Sileodepiction: https://raw.githubusercontent.com/AzzouDuGhetto/repo/master/depictions/rounderls/modernDepiction.json
+

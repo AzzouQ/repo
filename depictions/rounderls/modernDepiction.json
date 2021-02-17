@@ -80,6 +80,20 @@
 		"views": [
 		{
 			"class": "DepictionSubheaderView",
+			"title": "Version 1.4",
+			"useBoldText": true
+		},
+		{
+			"class": "DepictionMarkdownView",
+			"markdown": "- Improve battery life A LOT\r\n- Now use Continuous Corners",
+			"useSpacing": false
+		},
+		{
+			"class": "DepictionSpacerView",
+			"spacing": 8
+		},
+		{
+			"class": "DepictionSubheaderView",
 			"title": "Version 1.3-1",
 			"useBoldText": true
 		},
