@@ -80,6 +80,20 @@
 		"views": [
 		{
 			"class": "DepictionSubheaderView",
+			"title": "Version 1.5",
+			"useBoldText": true
+		},
+		{
+			"class": "DepictionMarkdownView",
+			"markdown": "- Fixed a visual glitch in screenshot/record.",
+			"useSpacing": false
+		},
+		{
+			"class": "DepictionSpacerView",
+			"spacing": 8
+		},
+		{
+			"class": "DepictionSubheaderView",
 			"title": "Version 1.4",
 			"useBoldText": true
 		},
