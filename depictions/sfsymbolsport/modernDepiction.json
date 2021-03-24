@@ -1,0 +1,88 @@
+{
+	"class": "DepictionTabView",
+	"headerImage": "https://azzoudughetto.github.io/repo/depictions/sfsymbolsport/assets/banner.png",
+	"tabs": [{
+		"class": "DepictionStackView",
+		"tabname": "Details",
+		"views": [{
+			"class": "DepictionScreenshotsView",
+			"itemCornerRadius": 6,
+			"itemSize": "{160, 275.5}"
+		},
+		{
+			"class": "DepictionSpacerView",
+			"spacing": 8
+		},
+		{
+			"class": "DepictionMarkdownView",
+			"title": "markdown-description",
+			"markdown": "Enable iOS 14 SFSymbols for older iOS versions !",
+			"useBoldText": true,
+			"useBottomMargin": false
+		},
+		{
+			"class": "DepictionSeparatorView"
+		},
+		{
+			"class": "DepictionTableTextView",
+			"title": "Price",
+			"text": "Free"
+		},
+		{
+			"class": "DepictionSpacerView",
+			"spacing": 8
+		},
+		{
+			"class": "DepictionTableButtonView",
+			"title": "Twitter",
+			"action": "https://twitter.com/AzzouDuGhetto"
+		},
+		{
+			"class": "DepictionTableButtonView",
+			"title": "Reddit",
+			"action": "https://reddit.com/user/SingeSumo"
+		},
+		{
+			"class": "DepictionTableButtonView",
+			"title": "Github",
+			"action": "https://github.com/AzzouDuGhetto"
+		}]
+	},
+	{
+		"class": "DepictionStackView",
+		"tabname": "Features",
+		"views": [{
+			"class": "DepictionSubheaderView",
+			"title": "Custom radius",
+			"useBoldText": true
+		},
+		{
+			"class": "DepictionMarkdownView",
+			"markdown": "SFSymbolsPort will give you the possibility of using SFSymbols 2, only present in iOS 14, on iOS 13 !",
+			"useSpacing": false
+		},
+		{
+			"class": "DepictionSpacerView",
+			"spacing": 8
+		}]
+	},
+	{
+		"class": "DepictionStackView",
+		"tabname": "Changelog",
+		"views": [
+		{
+			"class": "DepictionSubheaderView",
+			"title": "Version 1.0",
+			"useBoldText": true
+		},
+		{
+			"class": "DepictionMarkdownView",
+			"markdown": "- Initial release.",
+			"useSpacing": false
+		},
+		{
+			"class": "DepictionSpacerView",
+			"spacing": 8
+		}]
+	}]
+}
