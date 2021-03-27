@@ -16,7 +16,7 @@
 		{
 			"class": "DepictionMarkdownView",
 			"title": "markdown-description",
-			"markdown": "⛔️ INSTALL THIS PACKAGE AT YOUR OWN RISK ! IT MESS WITH FILESYSTEM WHICH CAN LEAD TO RESPRING LOOP ⛔️\nEnable iOS 14 SFSymbols for older iOS versions !",
+			"markdown": "⛔️ INSTALL THIS PACKAGE AT YOUR OWN RISK ! IT MESS WITH FILESYSTEM WHICH CAN LEAD TO RESPRING LOOP ⛔️\r\nEnable iOS 14 SFSymbols for older iOS versions !",
 			"useBoldText": true,
 			"useBottomMargin": false
 		},
