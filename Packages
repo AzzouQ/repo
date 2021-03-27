@@ -124,21 +124,3 @@ Icon: https://raw.githubusercontent.com/AzzouDuGhetto/repo/master/depictions/rou
 Name: RounderLS
 Sileodepiction: https://raw.githubusercontent.com/AzzouDuGhetto/repo/master/depictions/rounderls/modernDepiction.json
 
-Package: com.azzou.sfsymbolsport
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: Azzou
-Installed-Size: 172608
-Depends: mobilesubstrate, firmware (>= 13)
-Filename: ./debs/com.azzou.sfsymbolsport_1.0_iphoneos-arm.deb
-Size: 56561630
-MD5sum: cf5eb53f1794bf90e5008a6c8d57ef1a
-SHA1: d77030ab69e5c2f5dcb85c75a0a21d8417fa76d4
-SHA256: e5de738cd290b5b577108f0094c9df1b41bce8d92699b004eb01a6867be40cb7
-Section: Tweaks
-Description: Enable iOS 14 SFSymbols for older iOS versions !
-Author: Azzou
-Icon: https://raw.githubusercontent.com/AzzouDuGhetto/repo/master/depictions/sfsymbolsport/assets/icon.png
-Name: SFSymbolsPort
-Sileodepiction: https://raw.githubusercontent.com/AzzouDuGhetto/repo/master/depictions/sfsymbolsport/modernDepiction.json
-
